@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-</head>
-
-<body>
-
-    <h1>Welcome</h1>
-    <p>This is basic HTML structure.</p>
-
-</body>
-
-</html>
+<h1>hamdan</h1>
+<h2>hamdan</h2>
+<h3>hamdan</h3>
+<h4>hamdan</h4>
+<h5>hamdan</h5>
+<h6>hamdan</h6>
